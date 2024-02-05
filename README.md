@@ -3,3 +3,4 @@
 ### Creational patterns
 
 - Factory method
+- Abstract factory

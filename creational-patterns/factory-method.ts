@@ -1,6 +1,11 @@
+/** Factory Method is a creational design pattern that provides an interface for creating objects in a superclass,
+  * but allows subclasses to alter the type of objects that will be created */
+
 // Use cases:
-// When you need to create a lot of similar objects with the same structure but different data
 // When you need common interface for multiple implementations
+// When you don’t know beforehand the exact types and dependencies of the objects your code should work with.
+// When you want to provide users of your library or framework with a way to extend its internal components.
+// When you want to save system resources by reusing existing objects instead of rebuilding them each time.
 
 /**
  * The Creator class declares the factory method that is supposed to return an
