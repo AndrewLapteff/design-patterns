@@ -4,3 +4,7 @@
 
 - Factory method
 - Abstract factory
+
+### Behavioral patterns
+
+- Strategy
