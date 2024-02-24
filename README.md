@@ -8,3 +8,7 @@
 ### Behavioral patterns
 
 - Strategy
+
+### Structural patterns
+
+- Decorator
