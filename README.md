@@ -12,3 +12,4 @@
 ### Structural patterns
 
 - Decorator
+- Composite
